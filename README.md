@@ -1,6 +1,6 @@
 # v0 clone (earlier UI)
 
-| <img src="./demo.png" width="48"> |
+| <img src="./demo.png" width="1280"> |
 | - |
 
 Clone of v0 frontend, I did this mainly by using Gemini's 1M coding model. This was done a while back.
